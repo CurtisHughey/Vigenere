@@ -4,7 +4,3 @@ then
 java Vigenere
 
 The files ciphertext.txt, plaintext.txt, and freqs.txt are used inside this program.
-
-See output.txt for output of a run.
-
-See hwk2.txt for summarized output, answers, and analysis.
